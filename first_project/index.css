@@ -1,0 +1,26 @@
+ body {
+     background-color: wheat;
+ }
+/* .hero-txt */
+.hero-txt:hover {
+    font-size: 48px;
+    color:red;
+}
+
+ .header {
+     background-color: rgb(0, 64, 128);
+     color: azure;
+     padding: 10px;
+     text-align: center;
+ }
+
+ .footer {
+     background-color: rgb(0, 64, 128);
+     color: azure;
+     padding: 10px;
+     text-align: center;
+ }
+
+ .a-tag {
+     color: white;
+ }
