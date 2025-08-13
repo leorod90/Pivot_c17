@@ -75,3 +75,14 @@ body {
   margin-top: 15px;
   margin-bottom: 15px;
 }
+
+.footer {
+  background-color: navy;
+  text-align: center;
+  padding: 20px;
+}
+
+.footer-text {
+  color: white;
+  font-size: 20px;
+}
